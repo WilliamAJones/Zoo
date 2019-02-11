@@ -88,6 +88,7 @@ let zonk=  new zonkey ("Zoinks", "Mammal")
 
 console.log(ali.constructor.name + '/'+ ali2.constructor.name +'-'+ ali.name+' and '+ali2.name +' are ' + ali.Class+'s')
 console.log(furryTractor.name+' and '+bearina.name +' are ' + ali.Class+'s')
+
 // console.log(furryTractor.name+'-' + furryTractor.Class)
 // console.log(kitty.name+'-' + kitty.Class)
 // console.log(drag.name+'-' + drag.Class)
